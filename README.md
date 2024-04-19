@@ -2,6 +2,7 @@ FastAPI ile Firestore Kullanarak Todo Listesi Uygulaması
 Bu proje, FastAPI kullanarak basit bir Todo listesi uygulaması geliştirir. Firebase Firestore veritabanını kullanarak Todo kayıtlarını depolar ve işler. Ayrıca, HTTP istekleriyle veri iletişimi sağlar.
 
 Gereksinimler
+
 Python 3.7 veya üstü
 FastAPI ve Firestore için gerekli kütüphaneler (örneğin, firebase-admin, uvicorn, vb.)
 Firebase Firestore hesabı ve proje oluşturulması
